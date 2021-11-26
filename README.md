@@ -1,4 +1,4 @@
-# Sistema-financeiro - Um sistema de fianças simples feito em React
+# Um sistema de finanças simples feito em React
 
 ## Para rodar esse projeto em sua maquina:
 
